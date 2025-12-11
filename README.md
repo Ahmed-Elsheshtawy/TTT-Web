@@ -19,10 +19,10 @@ A classic Tic-Tac-Toe game where you play as **X** against the computer (O). The
 ## Screenshots
 
 ### Game Interface
-![Idle Game State](images/idle.png)
+<img src="images/idle.png" alt="Idle Game State" width="400">
 
 ### Winning State
-![Winning State](images/Winning.png)
+<img src="images/Winning.png" alt="Winning State" width="400">
 
 ## How to Play
 1. Open `index.html` in your browser
